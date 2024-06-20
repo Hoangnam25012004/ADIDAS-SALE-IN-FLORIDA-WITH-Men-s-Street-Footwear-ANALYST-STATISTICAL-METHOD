@@ -45,6 +45,10 @@ This project presents an analysis of the relationship between price per unit and
 
 ![Example Image](https://github.com/Hoangnam25012004/ADIDAS-SALE-IN-FLORIDA-WITH-Men-s-Street-Footwear-ANALYST-STATISTICAL-METHOD/blob/main/PROJECT/MODEL/Boxplot%20residual(cleaned%20data).png)
 
+* OLS regression results
+
+![Example Image](https://github.com/Hoangnam25012004/ADIDAS-SALE-IN-FLORIDA-WITH-Men-s-Street-Footwear-ANALYST-STATISTICAL-METHOD/blob/main/PROJECT/MODEL/OLS%20Regression%20results.png)
+
 ## Acknowledgements
 ●  Developed by HCMIU students.
 
