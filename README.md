@@ -19,6 +19,7 @@ This is [Report](https://docs.google.com/document/d/1IikJLRwBJga8igVRn7n95v0NOd6
 - Price per Unit and Units Sold are both discrete variable, State and Product are nominal variable
   
 • Explanatory variable: Units Sold
+
 • Response Variable: Price per Unit
 
 ## Goal 
