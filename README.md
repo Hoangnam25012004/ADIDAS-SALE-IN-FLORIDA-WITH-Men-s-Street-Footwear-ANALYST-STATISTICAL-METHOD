@@ -10,8 +10,8 @@ This is [Report](https://docs.google.com/document/d/1IikJLRwBJga8igVRn7n95v0NOd6
   + [Nguyễn Minh Đạt](https://github.com/29Schiller) 
   + [Đặng Hoàng Nam](https://github.com/Hoangnam25012004)
   + [Nguyễn Hoàng Thiện](https://github.com/THien2304)
-  + [Bùi Ngọc QUang Huy]()
-  + [Nguyễn Dư Nhân]()
+  + Bùi Ngọc QUang Huy
+  + Nguyễn Dư Nhân
 
 ## Object 
 - We have used many measures and performed many tests to determine the best and most suitable variables for describing the relation between Units Sold and Price per Unit. We have chosen these variables to analyze and execute hypothesis tests: State,Product,Units Sold,Price per Unit.
@@ -22,11 +22,20 @@ This is [Report](https://docs.google.com/document/d/1IikJLRwBJga8igVRn7n95v0NOd6
   - Response Variable: Price per Unit
 
 ## Goal 
-- Analyzing data to find patterns, trends, and the correlation between Price per unit
-and Units sold.
-- Implementing knowledge and skills learned from the Statistical Methods course
-to collect and understand the data thoroughly.
+- Analyzing data to find patterns, trends, and the correlation between Price per Unit and Units sold.
+  
+- Implementing knowledge and skills learned from the Statistical Methods course to collect and understand the data thoroughly.
+  
 - Understanding more about how datasets really work in reality.
+
+## Acknowledgements
+●  Developed by HCMIU students.
+
+●  We want to express our sincerest thanks to our lecturers and the people who have helped us to achieve this project's goals:
+
++ Dr. Phạm Hoàng Uyên.
+  
+
 
 
 
