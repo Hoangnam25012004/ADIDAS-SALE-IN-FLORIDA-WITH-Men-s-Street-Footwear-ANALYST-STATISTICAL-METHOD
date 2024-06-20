@@ -1,6 +1,4 @@
 # ADIDAS SALE IN FLORIDA WITH ‘Men’s Street Footwear’ ANALYST-STATISTICAL METHOD(IT151IU)
-___Game project of OOP class___  
-__Game name__: Plants vs Zombies  
 
 This project presents an analysis of the relationship between price per unit and the number of units sold. The primary objective is to understand how pricing strategies impact sales volume and to identify trends and patterns that can inform future pricing decisions. The analysis uses historical Florida Adidas sales with Men’s Streetwear data from a 2020-2021 period, examining variations in unit prices and corresponding sales volumes.
 
