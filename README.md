@@ -25,6 +25,9 @@ This project presents an analysis of the relationship between price per unit and
   
 - Understanding more about how datasets really work in reality.
 
+## Model 
+![Example Image](https://github.com/Hoangnam25012004/ADIDAS-SALE-IN-FLORIDA-WITH-Men-s-Street-Footwear-ANALYST-STATISTICAL-METHOD/blob/main/PROJECT/MODEL/Histogram%20in%20dataset.png)
+
 ## Acknowledgements
 ●  Developed by HCMIU students.
 
