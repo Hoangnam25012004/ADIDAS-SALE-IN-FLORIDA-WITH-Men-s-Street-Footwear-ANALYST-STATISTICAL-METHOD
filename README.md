@@ -30,15 +30,19 @@ This project presents an analysis of the relationship between price per unit and
 ![Example Image](https://github.com/Hoangnam25012004/ADIDAS-SALE-IN-FLORIDA-WITH-Men-s-Street-Footwear-ANALYST-STATISTICAL-METHOD/blob/main/PROJECT/MODEL/Histogram%20in%20dataset.png)
 
 * Scatter diagram
+
 ![Example Image](https://github.com/Hoangnam25012004/ADIDAS-SALE-IN-FLORIDA-WITH-Men-s-Street-Footwear-ANALYST-STATISTICAL-METHOD/blob/main/PROJECT/MODEL/Scatter%20diagram.png)
 
 * Residual plot
+
 ![Example Image](https://github.com/Hoangnam25012004/ADIDAS-SALE-IN-FLORIDA-WITH-Men-s-Street-Footwear-ANALYST-STATISTICAL-METHOD/blob/main/PROJECT/MODEL/Residual%20plot.png)
 
 * Handling outlier
+
 ![Example Image](https://github.com/Hoangnam25012004/ADIDAS-SALE-IN-FLORIDA-WITH-Men-s-Street-Footwear-ANALYST-STATISTICAL-METHOD/blob/main/PROJECT/MODEL/Handing%20outlier%20in%20regression%20line.png)
 
 * Boxplot
+
 ![Example Image](https://github.com/Hoangnam25012004/ADIDAS-SALE-IN-FLORIDA-WITH-Men-s-Street-Footwear-ANALYST-STATISTICAL-METHOD/blob/main/PROJECT/MODEL/Boxplot%20residual(cleaned%20data).png)
 
 ## Acknowledgements
