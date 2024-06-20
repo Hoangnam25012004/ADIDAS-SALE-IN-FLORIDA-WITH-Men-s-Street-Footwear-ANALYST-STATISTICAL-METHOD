@@ -7,7 +7,7 @@ This project presents an analysis of the relationship between price per unit and
   + [Nguyễn Minh Đạt](https://github.com/29Schiller) 
   + [Đặng Hoàng Nam](https://github.com/Hoangnam25012004)
   + [Nguyễn Hoàng Thiện](https://github.com/THien2304)
-  + Bùi Ngọc QUang Huy
+  + Bùi Ngọc Quang Huy
   + Nguyễn Dư Nhân
 
 ## Object 
