@@ -1,9 +1,8 @@
 # ADIDAS SALE IN FLORIDA WITH ‘Men’s Street Footwear’ ANALYST-STATISTICAL METHOD(IT151IU)
 ___Game project of OOP class___  
 __Game name__: Plants vs Zombies  
-__Plants vs Zombies__ (abbreviated as PvZ) is a tower defense video game developed and originally published by a group of HCMIU students. The game involves homeowners who use a variety of different plants to prevent waves of zombies from reaching the house. When a horde of zombies begins to attempt to approach the house along parallel lanes, the player must protect the house by planting trees in the lane to shoot bullets that kill the zombies or harm them. Players collect a currency called "sun" to buy plants. If a zombie reaches the house by any lane, the level is considered failed and the player will have to restart that level. In this undertaking, our team has remade this game to bring players a new version of Plants vs Zombies with many changes and improvements.
 
-This is [Report](https://docs.google.com/document/d/1IikJLRwBJga8igVRn7n95v0NOd6c-GmmN6A5WZ08KQA/edit?usp=sharing) what we decribed throughout the working process.
+This project presents an analysis of the relationship between price per unit and the number of units sold. The primary objective is to understand how pricing strategies impact sales volume and to identify trends and patterns that can inform future pricing decisions. The analysis uses historical Florida Adidas sales with Men’s Streetwear data from a 2020-2021 period, examining variations in unit prices and corresponding sales volumes.
 
 
 # Dev
