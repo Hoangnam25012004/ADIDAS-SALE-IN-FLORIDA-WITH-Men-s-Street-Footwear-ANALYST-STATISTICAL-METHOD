@@ -14,9 +14,10 @@ This is [Report](https://docs.google.com/document/d/1IikJLRwBJga8igVRn7n95v0NOd6
   + [Nguyễn Dư Nhân]()
 
 ## Object 
-- We have used many measures and performed many tests to determine the best and
-most suitable variables for describing the relation between Units Sold and Price per Unit . We have chosen these variables to analyze and execute hypothesis tests: State,Product,Units Sold,Price per Unit. 
+- We have used many measures and performed many tests to determine the best and most suitable variables for describing the relation between Units Sold and Price per Unit. We have chosen these variables to analyze and execute hypothesis tests: State,Product,Units Sold,Price per Unit.
+
 - Price per Unit and Units Sold are both discrete variable, State and Product are nominal variable
+  
 • Explanatory variable: Units Sold
 • Response Variable: Price per Unit
 
